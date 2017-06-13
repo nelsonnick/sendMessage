@@ -12,7 +12,6 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import java.io.*;
 
-
 public class App {
 
     public static void main(String[] args) throws IOException, BadHanyuPinyinOutputFormatCombination {
